@@ -1,0 +1,7 @@
+/home/wjg/softwares/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wjg/projects/CeresCurveFitting
+-- Found required Ceres dependency: Eigen version 3.2.93 in /usr/include/eigen3/
+-- Found required Ceres dependency: Glog in /usr/include
+-- Found Ceres version: 1.12.0 installed in: /usr with components: [LAPACK, SuiteSparse, SparseLinearAlgebraLibrary, CXSparse, SchurSpecializations, OpenMP]
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wjg/projects/CeresCurveFitting/cmake-build-debug
